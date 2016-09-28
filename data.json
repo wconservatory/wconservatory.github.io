@@ -93,6 +93,20 @@
 			"image": "img/sponsor-06.jpg"
 		}
 	],
+	"about_data": [
+		{
+			"title": "W CONSERVATORY TRAINING RESIDENCY",
+			"image" : "img/about-w-conservatory.jpg",
+			"description": "W Conservatory, the training residency of NYO-China, is designed to develop individual members’ skills as musicians and to prepare the orchestra as a whole for its concert tour. Members will participate in a two-week training program, consisting of sectional rehearsals led by a world-class faculty of coaches and full orchestra rehearsals under the direction NYO-China’s music director and guest conductor. Members will also have access to other learning and exchange opportunities such as master classes, recreational chamber music readings, weekend concert excursions, and social interactions with NYO-USA.",
+			"align": "left"
+		},
+		{
+			"title": "CONCERT TOUR OF CHINA",
+			"image" : "img/about-concert-tour.jpg",
+			"description": "NYO-China’s concert tour will last for one week immediately following its debut performance in Carnegie Hall on July 22nd. Upon arrival in China, the orchestra will perform in premier venues throughout the country, including the National Centre for the Performing Arts (NCPA) in Beijing, the Shanghai Grand Theatre, and the Guangzhou Opera House. This tour will showcase the orchestra on an international level and allow NYO-China’s musicians to expand the reach of this remarkable cultural exchange to audiences at home. ",
+			"align": "right"
+		}
+	],
 	"audition_process_data": [
 		{
 			"title": "Applications Open",
@@ -113,13 +127,13 @@
 	],
 	"headlining_artists": [
 		{
-			"photo": "img/artist-placeholder.jpg",
+			"photo": "img/ludovic-morlot.jpg",
 			"title": "Ludovic Morlot",
 			"subtitle": "Guest Conductor",
 			"description": "Ludovic Morlot is a bright star among a new generation of international conductors, serving as the principal conductor of the Seattle Symphony and a frequent guest conductor of the orchestras of Boston, New York, Chicago, and Los Angeles. Prior to his tenure at the Seattle Symphony, Maestro Morlot served as the conductor-in-residence at the Orchestre National de Lyon under David Robertson from 2002 to 2004 where he led ONL’s two youth orchestras. Further achievements include being awarded the Seiji Ozawa Fellowship in conducting at the Tanglewood Music Festival in 2002 and being inducted into the Royal Academy of Music in 2004. Beyond his duties at the Seattle Symphony, Maestro Morlot is also the chair of orchestral conducting studies at the University of Washington. As guest conductor of NYO-China, he will lead the youth ensemble beginning with their dress rehearsals and through their public performances at Carnegie Hall and in China. As a highly celebrated conductor with an enduring interest in working with students, Maestro Morlot’s participation in the project provides NYO-China’s members the opportunity to play under one of the world’s best."
 		},
 		{
-			"photo": "img/artist-placeholder.jpg",
+			"photo": "img/chen-lin.jpg",
 			"title": "Chen Lin",
 			"subtitle": "Music Director and Chief Artistic Advisor",
 			"description": "A professor at the Central Conservatory of Music in Beijing and a well-respected conductor of many youth and international music ensembles, Chen Lin joins the NYO-China team as its music director and chief artistic advisor. After studying with the acclaimed Yu Feng at the Central Conservatory of Music, she served as a guest conductor for a number of renowned ensembles, including the symphony orchestras of Beijing, Shanghai, Shenzhen, and Vancouver. She was also selected as a Fellowship Conductor for the Tanglewood Music Festival in 2002. In addition to her achievements in conducting, Chen Lin taught as a professor of conducting at the University of Cincinnati College Conservatory of Music. Her extensive experience in both the United States and China makes her an invaluable resource for NYO-China’s students as conductor, mentor, and advisor. At W Conservatory, Ms. Chen will lead full orchestral rehearsals in the days leading up to Maestro Morlot’s arrival and oversee the orchestra’s faculty throughout the preparation process. Ms. Chen also serves as an integral artistic advisor to the NYO-China project, providing guidance and direction on matters related to curriculum, faculty, staff, and repertoire."
@@ -166,146 +180,22 @@
 					{
 						"name": "Violin",
 						"icon": "violin",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Viola",
 						"icon": "violin",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Cello",
 						"icon": "violin",
-						"artists": [
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Bass",
 						"icon": "violin",
-						"artists": [
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							}
-						]
+						"artists": []
 					}
 				]
 			},
@@ -316,146 +206,22 @@
 					{
 						"name": "Flute",
 						"icon": "flute",
-						"artists": [
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Clarinet",
 						"icon": "clarinet",
-						"artists": [
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Oboe",
 						"icon": "oboe",
-						"artists": [
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Bassoon",
 						"icon": "bassoon",
-						"artists": [
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							}
-						]
+						"artists": []
 					}
 				]
 			},
@@ -466,244 +232,39 @@
 					{
 						"name": "Trumpet",
 						"icon": "trumpet",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "French Horn",
 						"icon": "horn",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Trombone",
 						"icon": "trombone",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Bass Trombone",
 						"icon": "trombone",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					},
 					{
 						"name": "Tuba",
 						"icon": "tuba",
-						"artists": [
-							{
-								"name": "Dan Carlson",
-								"image": "img/artist-04.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Lucas Sankey",
-								"image": "img/artist-03.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Helley Henrichs",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							},
-							{
-								"name": "Andre Hunter",
-								"image": "img/artist-02.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-							},
-							{
-								"name": "Carrie O’Brien",
-								"image": "img/artist-01.jpg",
-								"subtitle": "M.M. from Julliard | New York Philharmonic",
-								"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-							}
-						]
+						"artists": []
 					}
 				]
 			},
 			{
 				"category": "Percussion",
 				"icon": "snare",
-				"artists": [
-					{
-						"name": "Dan Carlson",
-						"image": "img/artist-04.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-					},
-					{
-						"name": "Lucas Sankey",
-						"image": "img/artist-03.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-					},
-					{
-						"name": "Helley Henrichs",
-						"image": "img/artist-01.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-					},
-					{
-						"name": "Andre Hunter",
-						"image": "img/artist-02.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-					},
-					{
-						"name": "Carrie O’Brien",
-						"image": "img/artist-01.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-					}
-				]
+				"artists": []
 			},
 			{
 				"category": "Harp",
 				"icon": "harp",
-				"artists": [
-					{
-						"name": "Helley Henrichs",
-						"image": "img/artist-01.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-					},
-					{
-						"name": "Andre Hunter",
-						"image": "img/artist-02.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense. In to am attended desirous raptures declared diverted confined at. Collected instantly remaining up certainly to necessary as. Over walk dull into son boy door went new."
-					},
-					{
-						"name": "Lucas Sankey",
-						"image": "img/artist-03.jpg",
-						"subtitle": "M.M. from Julliard | New York Philharmonic",
-						"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt hendrerit urna, at placerat sapien cursus eu. Integer augue dolor, tempus ut neque nec, egestas elementum arcu. Pellentesque egestas interdum nisi. In rhoncus mauris risus, id laoreet ante maximus maximus. Suspendisse vel ex sit amet enim rhoncus ultricies sed in purus. Donec quis lorem ullamcorper, accumsan eros quis, condimentum tortor. Nam consequat sapien sed vulputate eleifend. Etiam condimentum ligula eget rhoncus vulputate. In porttitor, felis eget tincidunt consequat, enim magna interdum nisl, et volutpat risus erat eget est. Aliquam erat volutpat. Quisque faucibus sem et urna malesuada, a gravida nisl ultrices. Maecenas sagittis rhoncus eros, ac eleifend dui fringilla ut. Mauris ullamcorper, neque nec posuere lacinia, lectus est laoreet ligula, non semper dolor diam id leo."
-					}
-				]
+				"artists": []
 			}
 		]
 	},
@@ -1158,12 +719,8 @@
 			"city" : "New York",
 			"country": "USA",
 			"name": "NYO-China",
-			"solist": "Solist name",
-			"ics": {
-				"name": "NYO-China event in Carnegie Hall",
-				"start": "2016-09-28T12:33:41.309Z",
-				"end": "2016-09-28T15:33:41.309Z"
-			},
+			"soloist": "Ludovic Morlot",
+			"ics": "event_01.ics",
 			"photos": [
 				"img/carnegie-hall-1.jpg",
 				"img/carnegie-hall-2.jpg"
@@ -1177,12 +734,8 @@
 			"city" : "Beijing",
 			"country": "China",
 			"name": "NYO-China",
-			"solist": "Solist name",
-			"ics": {
-				"name": "NYO-China event in Carnegie Hall",
-				"start": "2016-09-28T12:33:41.309Z",
-				"end": "2016-09-28T15:33:41.309Z"
-			},
+			"soloist": "Ludovic Morlot",
+			"ics": "event_02.ics",
 			"photos": [
 				"img/national-grand-theatre-1.jpg",
 				"img/national-grand-theatre-2.jpg"
@@ -1196,12 +749,8 @@
 			"city" : "Shanghai",
 			"country": "China",
 			"name": "NYO-China",
-			"solist": "Solist name",
-			"ics": {
-				"name": "NYO-China event in Carnegie Hall",
-				"start": "2016-09-28T12:33:41.309Z",
-				"end": "2016-09-28T15:33:41.309Z"
-			},
+			"soloist": "Ludovic Morlot",
+			"ics": "event_03.ics",
 			"photos": [
 				"img/shanghai-grand-theatre-1.jpg",
 				"img/shanghai-grand-theatre-2.jpg"
@@ -1215,12 +764,8 @@
 			"city" : "Guangzhou",
 			"country": "China",
 			"name": "NYO-China",
-			"solist": "Solist name",
-			"ics": {
-				"name": "NYO-China event in Carnegie Hall",
-				"start": "2016-09-28T12:33:41.309Z",
-				"end": "2016-09-28T15:33:41.309Z"
-			},
+			"soloist": "Ludovic Morlot",
+			"ics": "event_04.ics",
 			"photos": [
 				"img/guangzhou-opera-house-1.jpg",
 				"img/guangzhou-opera-house-2.jpg"
