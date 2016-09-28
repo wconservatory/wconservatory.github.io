@@ -1,22 +1,58 @@
 ﻿{
 	"endorsements": [
 		{
-			"name": "FIRSTNAME LASTNAME",
-			"image": "img/placeholder_endorsements.jpg",
-			"company": "Chairman, Placeholder Inc.",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra sapien et vehicula efficitur. Phasellus bibendum elit. Maecenas purus velit, elementum vitae ligula nec, pulvinar tincidunt enim."
+			"name": "Carrie O’Brien",
+			"image": "img/1.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Another journey chamber way yet females man. Way extensive and dejection get delivered deficient sincerity gentleman age. Too end instrument possession contrasted motionless. Calling offence six joy feeling."
 		},
 		{
-			"name": "FIRSTNAME LASTNAME",
-			"image": "img/placeholder_endorsements.jpg",
-			"company": "Chairman, Placeholder Inc.",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra sapien et vehicula efficitur. Phasellus bibendum elit. Maecenas purus velit, elementum vitae ligula nec, pulvinar tincidunt enim."
+			"name": "Bench Accounting",
+			"image": "img/2.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Unpacked reserved sir offering bed judgment may and quitting speaking. Is do be improved raptures offering required in replying raillery. Stairs ladies friend by in mutual an no. Mr hence chief he cause."
 		},
 		{
-			"name": "FIRSTNAME LASTNAME",
-			"image": "img/placeholder_endorsements.jpg",
-			"company": "Chairman, Placeholder Inc.",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra sapien et vehicula efficitur. Phasellus bibendum elit. Maecenas purus velit, elementum vitae ligula nec, pulvinar tincidunt enim."
+			"name": "Damien Smith",
+			"image": "img/3.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Game of as rest time eyes with of this it. Add was music merry any truth since going. Happiness she ham but instantly put departure propriety. She amiable all without say spirits shy clothes morning."
+		},
+		{
+			"name": "Carrie O’Brien",
+			"image": "img/1.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Another journey chamber way yet females man. Way extensive and dejection get delivered deficient sincerity gentleman age. Too end instrument possession contrasted motionless. Calling offence six joy feeling."
+		},
+		{
+			"name": "Bench Accounting",
+			"image": "img/2.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Unpacked reserved sir offering bed judgment may and quitting speaking. Is do be improved raptures offering required in replying raillery. Stairs ladies friend by in mutual an no. Mr hence chief he cause."
+		},
+		{
+			"name": "Damien Smith",
+			"image": "img/3.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Game of as rest time eyes with of this it. Add was music merry any truth since going. Happiness she ham but instantly put departure propriety. She amiable all without say spirits shy clothes morning."
+		},
+		{
+			"name": "Carrie O’Brien",
+			"image": "img/1.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Another journey chamber way yet females man. Way extensive and dejection get delivered deficient sincerity gentleman age. Too end instrument possession contrasted motionless. Calling offence six joy feeling."
+		},
+		{
+			"name": "Bench Accounting",
+			"image": "img/2.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Unpacked reserved sir offering bed judgment may and quitting speaking. Is do be improved raptures offering required in replying raillery. Stairs ladies friend by in mutual an no. Mr hence chief he cause."
+		},
+		{
+			"name": "Damien Smith",
+			"image": "img/3.jpg",
+			"company": "Lorem ipsum dolor sit amet",
+			"description": "Game of as rest time eyes with of this it. Add was music merry any truth since going. Happiness she ham but instantly put departure propriety. She amiable all without say spirits shy clothes morning."
 		}
 	],
 	"sponsors": [
@@ -110,19 +146,19 @@
 	"audition_process_data": [
 		{
 			"title": "Applications Open",
-			"date": "October 15, 2016"
+			"date": "May 23, 2016"
 		},
 		{
-			"title": "Applications Due",
-			"date": "January 15, 2017"
+			"title": "Applications Close",
+			"date": "May 24, 2016"
 		},
 		{
 			"title": "Decisions Released",
-			"date": "February 15, 2017"
+			"date": "May 25, 2016"
 		},
 		{
 			"title": "Matriculations Confirmed",
-			"date": "March 1, 2017"
+			"date": "May 26, 2016"
 		}
 	],
 	"headlining_artists": [
@@ -144,32 +180,32 @@
 			{
 				"title": "FULL ORCHESTRAL REHEARSALS",
 				"image": "img/image-grid-06.jpg",
-				"text": "Full orchestral rehearsals form the core of the W Conservatory training residency. Held daily throughout the two weeks under the direction of NYO-China’s music director, Chen Lin, and later, its guest conductor, Ludovic Morlot, these rehearsals will develop NYO-China’s student musicians into an orchestra capable of performing on a world stage. In addition, they will help members of NYO-China to develop the listening, communication, and leadership skills that are essential for a professional orchestra member."
+				"text": "Full orchestral rehearsals form the core of the W Conservatory program and will allow students to train as one orchestra under the leadership of our music director [Music Director] and, later, our principal conductor [Conductor]. Held daily throughout the three weeks, these rehearsals will develop our student musicians into an orchestra capable of performing on a world stage. No less important, they will help members of NYO-China to develop the listening, communication, and leadership skills that are essential for a consummate orchestral player."
 			},
 			{
 				"title": "SECTIONAL REHEARSALS",
 				"image": "img/image-grid-01.jpg",
-				"text": "Sectional rehearsals will be held every other day and will be led by coaches selected from the principal ranks of premier American orchestras. These coaching sessions will allow each sectional group to work in isolation, enabling them to sort out the repertoire’s technical challenges and thereafter develop a unified sectional sound and interpretation. In addition, faculty will spend time discussing common audition excerpts and repertoire, providing members the opportunity to learn firsthand from a master of their instrument."
+				"text": "Sectional rehearsals will be held every other day and will be led by coaches selected from the faculty of major American conservatories and the principal ranks of premier American orchestras. These coaching sessions will allow each sectional group to work in isolation, enabling them to sort out the repertoire’s technical challenges and thereafter cultivate a unified sectional sound and interpretation. In addition, coaches will spend time discussing common audition excerpts and repertoire, providing members the opportunity to learn first hand from a master of their instrument."
 			},
 			{
 				"title": "MASTER CLASSES",
 				"image": "img/image-grid-02.jpg",
-				"text": "Master classes will be regularly conducted by faculty coaches and will provide students the chance to perform for their peers as a soloist and observe the mentorship process as an audience member. Master classes also serve as an opportunity for students to publicly demonstrate their growth as musicians through performing excerpts of their choice. By working individually with their faculty coaches, students will also be able to develop personal and musical relationships that will benefit them well beyond the conclusion of W Conservatory."
+				"text": "Master classes will be conducted by faculty coaches throughout the week and will provide students the chance to both perform for their peers as a soloist and observe the mentorship process as an audience member. Furthermore, this is our student’s opportunity to publicly demonstrate their growth as a musician through performing excerpts of their choice. Finally, by working individually with their faculty coaches on a regular basis, students will be able to develop personal and musical relationships that will benefit them well beyond the conclusion of W Conservatory."
 			},
 			{
 				"title": "SEMINARS AND WORKSHOPS",
 				"image": "img/image-grid-03.jpg",
-				"text": "Seminars and workshops will be given on a variety of topics, including musical history and interpretation, performance psychology, and professional music opportunities. NYO-China’s seminars will also focus on navigating the music education system in the United States, inviting students to learn from the faculty of the nation’s most prominent music conservatories. Workshops encourage students to think critically about their aspirations as musicians and to acquire the physical, mental, and interpretive skills necessary to realize their goals."
+				"text": "Seminars and workshops will be given on a variety of topics, including musical history and interpretation, performance psychology, and professional music opportunities. Our seminars will also focus on navigating the music education system in the United States and will allow students to meet and learn from the administrators and faculty of the nation’s most prominent music conservatories. Our workshops will place an emphasis on interactivity, encouraging students to think critically about their aspirations as musicians and to acquire the physical, mental, and interpretive skills necessary to realize their goals."
 			},
 			{
 				"title": "INTERACTIONS WITH NYO-USA",
 				"image": "img/image-grid-04.jpg",
-				"text": "NYO-China was inspired by the remarkable success of Carnegie Hall’s NYO-USA and has been modeled after it so as to achieve similar benefits for its members. As the two NYO programs are so similar in design and purpose, the NYO-China curriculum will include a number of opportunities for social interactions with NYO-USA. Members will have the opportunity to discuss their experiences with their American counterparts and, perhaps more importantly, rehearse and perform together in small groups, participating in a unique and meaningful cultural exchange."
+				"text": "NYO-China was inspired by the remarkable success of Carnegie Hall’s NYO-USA and has been modeled after it so as to achieve similar benefits for its members. As the two programs are so similar in design and purpose, the NYO-China curriculum will include a number of opportunities for social interactions with NYO-USA. Members will have the chance to discuss their experiences with their American counterparts and, furthermore, rehearse and perform together in small groups, participating in an especially meaningful cultural exchange."
 			},
 			{
 				"title": "CULTURAL EXCURSIONS",
 				"image": "img/image-grid-05.jpg",
-				"text": "Beyond the development of members’ individual musical prowess, W Conservatory is designed to expose students to the broader culture within which they will perform. Students will have the opportunity to attend chaperoned weekend excursions to musical and cultural attractions in the Greater New York Metropolitan Area. Possible destinations include a concert by the New York Philharmonic, exhibitions by classical and modern dance troupes, musical performances on Broadway, and recitals by local chamber ensembles."
+				"text": "Beyond the development of members’ individual musical prowess, W Conservatory is also meant to expose students to the broader culture within which they will perform. To this end, students will have the opportunity to attend chaperoned weekend excursions to a wide variety of musical and cultural attractions in the Greater New York Metropolitan Area. Destinations will include concerts by premier American orchestras, exhibitions by modern and classical dance troupes, performances by musical theatre companies, and recitals by touring chamber orchestras."
 			}
 		],
 		"faculty": [
@@ -715,7 +751,7 @@
 		{
 			"place": "Carnegie Hall",
 			"coordinates": [-73.9821123, 40.7651298],
-			"date": "July 22, 2017",
+			"date": "May 13, 2016",
 			"city" : "New York",
 			"country": "USA",
 			"name": "NYO-China",
@@ -725,12 +761,12 @@
 				"img/carnegie-hall-1.jpg",
 				"img/carnegie-hall-2.jpg"
 			],
-			"place_description": "Located in Midtown Manhattan, Carnegie Hall is the most famous performance venue in the United States, if not the world. Constructed in 1891, the legendary concert hall has been home to hundreds of musical debuts – of composers’ newest works and of young soloists who would later become internationally renowned stars. Students will make their own debut on the Ronald O. Perelman Stage in the 2800-seat Isaac Stern Auditorium, taking their own place in this fine tradition."
+			"place_description": "Located in Midtown Manhattan, Carnegie Hall is, without question, the most famous performance venue in the United States, if not the world. Constructed in 1891, the legendary concert hall has been home to hundreds of musical debuts – of composers’ newest works and of young soloists who would later become internationally renowned stars. Students will make their own debut on the Ronald O. Perelman Stage in the 2800-seat Isaac Stern Auditorium, thereby taking their own place in this fine tradition."
 		},
 		{
 			"place": "National Grand Theatre",
 			"coordinates": [116.3874825, 39.9048031],
-			"date": "July 26, 2017",
+			"date": "May 14, 2016",
 			"city" : "Beijing",
 			"country": "China",
 			"name": "NYO-China",
@@ -745,7 +781,7 @@
 		{
 			"place": "Shanghai Grand Theatre",
 			"coordinates": [121.4696163, 31.2296286],
-			"date": "July 28, 2017",
+			"date": "May 15, 2016",
 			"city" : "Shanghai",
 			"country": "China",
 			"name": "NYO-China",
@@ -760,7 +796,7 @@
 		{
 			"place": "Guangzhou Opera House",
 			"coordinates": [113.3197323, 23.1152499],
-			"date": "July 30, 2017",
+			"date": "May 15, 2016",
 			"city" : "Guangzhou",
 			"country": "China",
 			"name": "NYO-China",
