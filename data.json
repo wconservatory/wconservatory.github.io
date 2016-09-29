@@ -131,13 +131,13 @@
 	],
 	"about_data": [
 		{
-			"title": "W CONSERVATORY TRAINING RESIDENCY",
+			"title": "TRAINING RESIDENCY",
 			"image" : "img/about-w-conservatory.jpg",
 			"description": "W Conservatory, the training residency of NYO-China, is designed to develop individual members’ skills as musicians and to prepare the orchestra as a whole for its concert tour. Members will participate in a two-week training program, consisting of sectional rehearsals led by a world-class faculty of coaches and full orchestra rehearsals under the direction NYO-China’s music director and guest conductor. Members will also have access to other learning and exchange opportunities such as master classes, recreational chamber music readings, weekend concert excursions, and social interactions with NYO-USA.",
 			"align": "left"
 		},
 		{
-			"title": "CONCERT TOUR OF CHINA",
+			"title": "CONCERT TOUR",
 			"image" : "img/about-concert-tour.jpg",
 			"description": "NYO-China’s concert tour will last for one week immediately following its debut performance in Carnegie Hall on July 22nd. Upon arrival in China, the orchestra will perform in premier venues throughout the country, including the National Centre for the Performing Arts (NCPA) in Beijing, the Shanghai Grand Theatre, and the Guangzhou Opera House. This tour will showcase the orchestra on an international level and allow NYO-China’s musicians to expand the reach of this remarkable cultural exchange to audiences at home. ",
 			"align": "right"
@@ -751,7 +751,7 @@
 		{
 			"place": "Carnegie Hall",
 			"coordinates": [-73.9821123, 40.7651298],
-			"date": "May 13, 2016",
+			"date": "July 22, 2017",
 			"city" : "New York",
 			"country": "USA",
 			"name": "NYO-China",
@@ -766,7 +766,7 @@
 		{
 			"place": "National Grand Theatre",
 			"coordinates": [116.3874825, 39.9048031],
-			"date": "May 14, 2016",
+			"date": "July 26, 2017",
 			"city" : "Beijing",
 			"country": "China",
 			"name": "NYO-China",
@@ -781,7 +781,7 @@
 		{
 			"place": "Shanghai Grand Theatre",
 			"coordinates": [121.4696163, 31.2296286],
-			"date": "May 15, 2016",
+			"date": "July 28, 2017",
 			"city" : "Shanghai",
 			"country": "China",
 			"name": "NYO-China",
@@ -796,7 +796,7 @@
 		{
 			"place": "Guangzhou Opera House",
 			"coordinates": [113.3197323, 23.1152499],
-			"date": "May 15, 2016",
+			"date": "July 30, 2017",
 			"city" : "Guangzhou",
 			"country": "China",
 			"name": "NYO-China",
