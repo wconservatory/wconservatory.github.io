@@ -146,33 +146,54 @@
 	"audition_process_data": [
 		{
 			"title": "Applications Open",
-			"date": "October 15, 2016"
+			"date": "November 21, 2016"
 		},
 		{
-			"title": "Applications Close",
-			"date": "January 31, 2017"
+			"title": "Applications Due",
+			"date": "February 13, 2017"
 		},
 		{
 			"title": "Decisions Released",
-			"date": "February 15, 2017"
+			"date": "March 13, 2017"
 		},
 		{
 			"title": "Matriculations Confirmed",
-			"date": "March 1, 2017"
+			"date": "March 20, 2017"
 		}
 	],
+    "auditions_timeline": [
+	    {
+		    "title": "Applications Open",
+		    "date": "November 21, 2016",
+		    "icon": "clock"
+	    },
+	    {
+		    "title": "Applications Due",
+		    "date": "February 13, 2017",
+		    "icon": "applications-due"
+	    },
+	    {
+		    "title": "Judging Period",
+		    "date": "February 13, 2017 - March 13, 2017",
+		    "icon": "judging"
+	    },
+	    {
+		    "title": "Decisions Released",
+		    "date": "March 13, 2017",
+		    "icon": "decisions-release"
+	    },
+	    {
+		    "title": "Matriculations Confirmed",
+		    "date": "March 20, 2017",
+		    "icon": "confirmation-due"
+	    }
+    ],
 	"headlining_artists": [
 		{
 			"photo": "img/ludovic-morlot.jpg",
 			"title": "Ludovic Morlot",
 			"subtitle": "Guest Conductor",
 			"description": "Ludovic Morlot is a bright star among a new generation of international conductors, serving as the principal conductor of the Seattle Symphony and a frequent guest conductor of the orchestras of Boston, New York, Chicago, and Los Angeles. Prior to his tenure at the Seattle Symphony, Morlot served as the conductor-in-residence at the Orchestre National de Lyon (ONL) under David Robertson from 2002 to 2004 where he led ONL’s two youth orchestras. Further achievements include being awarded the Seiji Ozawa Fellowship in conducting at the Tanglewood Music Festival in 2002 and being inducted into the Royal Academy of Music in 2004. Beyond his duties at the Seattle Symphony, Morlot is also the chair of orchestral conducting studies at the University of Washington. As guest conductor of NYO-China, he will lead the youth ensemble beginning with their dress rehearsals and through their public performances at Carnegie Hall and in China. As a highly celebrated conductor with an enduring interest in working with students, Morlot’s participation in the project provides NYO-China’s members the opportunity to play under one of the world’s best."
-		},
-		{
-			"photo": "img/chen-lin.jpg",
-			"title": "Chen Lin",
-			"subtitle": "Music Director and Chief Artistic Advisor",
-			"description": "A professor at the Central Conservatory of Music in Beijing and a well-respected conductor of many youth and international music ensembles, Chen Lin joins the NYO-China team as its music director and chief artistic advisor. After studying with the acclaimed Yu Feng at the Central Conservatory of Music, she served as a guest conductor for a number of renowned ensembles, including the symphony orchestras of Beijing, Shanghai, Shenzhen, and Vancouver. She was also selected as a Fellowship Conductor for the Tanglewood Music Festival in 2002. In addition to her achievements in conducting, Chen taught as a professor of conducting at the University of Cincinnati College Conservatory of Music. Her extensive experience in both the United States and China makes her an invaluable resource for NYO-China’s students as conductor, mentor, and advisor. During the residency program, Chen will lead full orchestral rehearsals in the days leading up to Morlot’s arrival and oversee the orchestra’s faculty throughout the preparation process. Chen also serves as an integral artistic advisor to the NYO-China project, providing guidance and direction on matters related to curriculum, faculty, staff, and repertoire."
 		}
 	],
 	"w_conservatory": {
@@ -637,7 +658,7 @@
 					]
 				},
 				{
-					"name": "Bass trombone",
+					"name": "Bass Trombone",
 					"icon": "trombone",
 					"requirements": [
 						"Solo Piece (Limit - 2 minutes)",
@@ -781,7 +802,7 @@
 		{
 			"place": "Shanghai Grand Theatre",
 			"coordinates": [121.4696163, 31.2296286],
-			"date": "July 28, 2017",
+			"date": "July 27, 2017",
 			"city" : "Shanghai",
 			"country": "China",
 			"name": "NYO-China",
@@ -796,7 +817,7 @@
 		{
 			"place": "Guangzhou Opera House",
 			"coordinates": [113.3197323, 23.1152499],
-			"date": "July 30, 2017",
+			"date": "July 29, 2017",
 			"city" : "Guangzhou",
 			"country": "China",
 			"name": "NYO-China",
